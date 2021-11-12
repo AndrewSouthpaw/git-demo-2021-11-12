@@ -2,4 +2,6 @@ Favorite color: blue
 
 Favorite number: 7
 
+Favorite pet: dog
+
 Favorite food: chocolate
