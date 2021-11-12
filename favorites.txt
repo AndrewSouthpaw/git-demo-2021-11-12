@@ -1,0 +1,5 @@
+Favorite color: blue
+
+Favorite number: 7
+
+Favorite food: chocolate
